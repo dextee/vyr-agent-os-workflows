@@ -2,6 +2,8 @@
 
 # Invoice Processing
 
+**Try the matching step.** A public, offline workbench compares three synthetic CSV files. Follow an invoice for twelve desk trays to receipts for ten, inspect the hold and replay a reviewer's decision. The reference exports a local draft. A client-specific Xero integration is part of the separately scoped service. [Download the v0.1.0 demo and report](https://github.com/dextee/invoice-match-workbench/releases/tag/v0.1.0) · [Read the exercised release review](https://github.com/dextee/singapore-ai-governance-checklist/blob/main/docs/invoice-workbench-release-review.md)
+
 ## Give finance fewer documents to chase and fewer details to retype
 
 A proposed service that reads invoice details, compares them with your purchase and delivery records, and prepares a draft for finance to review.

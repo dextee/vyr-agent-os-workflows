@@ -14,6 +14,8 @@ Start with one task. Find out what it could save before committing to a bigger p
 
 [Explore 14 business examples](docs/workflows/README.md) · [See the savings examples](ROI.md) · [How to get started](BUYERS_GUIDE.md)
 
+Run a synthetic invoice through a three-way match and inspect why two missing units keep it outside the draft. [Try the invoice workbench](docs/workflows/invoice-processing.md)
+
 ## Does your business recognise this day?
 
 An enquiry arrives. Someone checks a calendar. Another person copies details into a spreadsheet. An invoice needs checking. A follow-up waits because everybody is busy.
