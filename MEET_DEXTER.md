@@ -2,9 +2,9 @@
 
 # Meet Dexter Ng, CTO at VYR WORK
 
-**Business automation benefits from understanding the software, the information it handles and the people who rely on it.** Dexter's background spans business software, cybersecurity and data protection; his current VYR focus is AI automation for Singapore businesses.
+Dexter builds AI agents for Singapore operations teams and offers cybersecurity assessments for business applications. On an agent project, those disciplines meet at a practical decision. An assistant may prepare an invoice while a separate finance role retains approval. [Inspect Dexter's sample access review](https://github.com/dextee/dextee/tree/main/security-review)
 
-**[Review Dexter’s professional background on LinkedIn →](https://www.linkedin.com/in/dexterng/)**
+**[Ask Dexter about a cybersecurity assessment](https://www.linkedin.com/in/dexterng/)**
 
 **[Discuss your business process with VYR →](https://vyrwork.com/contact?utm_source=github&utm_medium=referral&utm_campaign=agent_os_workflows&utm_content=dexter_top)** · [Start a conversation with VYR](https://wa.me/6598176520?text=Hi+VYR%2C+I+read+Dexter+Ng%27s+background+in+your+GitHub+showcase.+My+business+is+__.+We+handle+about+__+tasks+per+month%2C+using+__.+I+would+like+to+discuss+whether+AI+could+save+us+time+or+money.)
 
